@@ -10,7 +10,7 @@ export const App = (
   </div>
 );
 
-function Contact(props) {
+function Contact() {
   return (
     <div>
       <h3>Sophie</h3>
